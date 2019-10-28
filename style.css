@@ -1,0 +1,9 @@
+.alert {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 15px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  color: #000000;
+  background-color: #ffd3e5;
+  cursor: pointer;
+}
